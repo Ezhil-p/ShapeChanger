@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Shapes">
+        <attr name="shape_color" format="color"/>
+        <attr name="display_shape" format="boolean"/>
+        <attr name="label_color" format="color"/>
+    </declare-styleable>
+</resources>
